@@ -1,4 +1,4 @@
-# Mech-ESA# MechEsa Club Website
+# MechEsa Club Website
 
 A modern, responsive website for the MechEsa Club - the premier mechanical engineering student association at IIT Indore.
 
